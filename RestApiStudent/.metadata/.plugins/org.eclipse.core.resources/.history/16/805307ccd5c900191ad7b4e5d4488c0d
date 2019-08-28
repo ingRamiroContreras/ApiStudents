@@ -1,0 +1,4 @@
+spring.postgresql.datasourcecore.url=jdbc:postgresql://localhost:5432/school
+spring.postgresql.datasourcecore.username=postgres
+spring.postgresql.datasourcecore.password=Ticxar2017
+spring.postgresql.datasourcecore.driver-class-name=org.postgresql.Driver
